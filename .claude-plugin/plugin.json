@@ -1,0 +1,24 @@
+{
+  "name": "bridgenode",
+  "version": "1.0.0",
+  "description": "Connect Claude to your BridgeNode servers, database connections and services. Discover resources, execute authorized server commands and retrieve recorded results.",
+  "author": {
+    "name": "NAXT LLC",
+    "url": "https://bridgenode.ai"
+  },
+  "homepage": "https://bridgenode.ai/claude",
+  "keywords": [
+    "bridgenode",
+    "servers",
+    "ssh",
+    "databases",
+    "mcp",
+    "devops"
+  ],
+  "documentationUrl": "https://bridgenode.ai/claude",
+  "supportUrl": "https://bridgenode.ai/contact",
+  "privacyPolicyUrl": "https://bridgenode.ai/privacy",
+  "termsOfServiceUrl": "https://bridgenode.ai/terms",
+  "icon": "./.claude-plugin/icon.png",
+  "repository": "https://github.com/naxtllc/claudeplugin"
+}
