@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bridgenode": {
+      "type": "http",
+      "url": "https://mcp.bridgenode.io/mcp"
+    }
+  }
+}
