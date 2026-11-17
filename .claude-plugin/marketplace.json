@@ -1,0 +1,14 @@
+{
+  "name": "naxtllc-bridgenode",
+  "owner": {
+    "name": "NAXT LLC"
+  },
+  "plugins": [
+    {
+      "name": "bridgenode",
+      "source": "./",
+      "description": "Connect Claude to your BridgeNode servers, database connections and services. Discover resources, execute authorized server commands and retrieve recorded results."
+    }
+  ],
+  "description": "BridgeNode infrastructure tools for Claude Code, published by NAXT LLC."
+}
